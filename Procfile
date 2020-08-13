@@ -1,1 +1,1 @@
-web: java -war Pet-Adoption-WebApp:war exploded
+web: java -war Pet-Adoption-WebApp.war
